@@ -52,6 +52,7 @@ By the end of this project, you will have a fully functional Splunk setup with d
 
 📊 Dashboard Access – Explore Splunk’s powerful GUI for searching, analyzing, and visualizing machine data.
 
+# Splunk Enterprise
 - Splunk supports all major OS versions, has very straightforward steps to install, and can be up and running in less than 10 minutes on any platform. In this task, we will only focus on installing Splunk Enterprise on the Linux host.
 - Typically, we would create an account on https://www.splunk.com/ and go to this https://www.splunk.com/en_us/download/splunk-enterprise.html?locale=en_us download link to select the installation package for the latest version. 
  <img width="940" height="225" alt="image" src="https://github.com/user-attachments/assets/a5c15c8f-2505-4efe-a8f2-7d0d8346bde1" />

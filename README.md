@@ -3,6 +3,7 @@
 - Splunk supports all major OS versions, has very straightforward steps to install, and can be up and running in less than 10 minutes on any platform. In this task, we will only focus on installing Splunk Enterprise on the Linux host.
 - Typically, we would create an account on splunk.com and go to this Splunk Enterprise download link to select the installation package for the latest version. 
  <img width="940" height="225" alt="image" src="https://github.com/user-attachments/assets/a5c15c8f-2505-4efe-a8f2-7d0d8346bde1" />
+
 Note: You’re are expected to create an account and download the Splunk Enterprise during this lab.
 - This task will explore installing and configuring Splunk on a Linux machine. 
 <img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/a0574ec9-99d7-48f5-9e12-464668779a4a" />

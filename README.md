@@ -15,26 +15,26 @@ Note: You’re are expected to create an account and download the Splunk Enterpr
 
 
 # Splunk Installation
-Splunk installation is as simple as running a command. You will need to uncompress Splunk by running the following command.
+- Splunk installation is as simple as running a command. You will need to uncompress Splunk by running the following command.
 <img width="842" height="416" alt="image" src="https://github.com/user-attachments/assets/af019488-cf86-4725-aafc-6058774da867" />
 
 Note: Make sure, to run sudo su to change to the root user before applying commands.
-After the installation is complete, a new folder named splunk will be created, as shown below. Let's now move this folder to the /opt/ directory and start working on Splunk from there.
+- After the installation is complete, a new folder named splunk will be created, as shown below. Let's now move this folder to the /opt/ directory and start working on Splunk from there.
  <img width="940" height="403" alt="image" src="https://github.com/user-attachments/assets/63ecec1a-b825-4bcd-8363-5173ca985c94" />
 
 # Starting Splunk
-The above step unzips the Splunk installer and installs all the necessary binaries and files on the system. Once installed, go to the directory /opt/splunk/bin and run the following command to start Splunk ./splunk start --accept-license. 
+- The above step unzips the Splunk installer and installs all the necessary binaries and files on the system. Once installed, go to the directory /opt/splunk/bin and run the following command to start Splunk ./splunk start --accept-license. 
  <img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/fa785f7e-3f14-4180-a6e6-8471db71c732" />
 
-As it is the first time we are starting the Splunk instance, it will ask the user for admin credentials. Create a user account and proceed.
+- As it is the first time we are starting the Splunk instance, it will ask the user for admin credentials. Create a user account and proceed.
  <img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/3ab17c89-7a21-4d61-b0f5-48dead26632a" />
 <img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/22c1e8a4-a76e-4c54-8c73-125cb6cafa61" />
 
  
 # Enable Splunk to run after booting process:
-Until now, we didn’t make the splunk to start or run automatically after the system is powered on. 
-If we don’t enable it to run after the booting process, then everytime we need to start it manually which may be inconvenient for us.
-so using the following command, we can enable the splunk to run automatically after boot process.
+- Until now, we didn’t make the splunk to start or run automatically after the system is powered on. 
+- If we don’t enable it to run after the booting process, then everytime we need to start it manually which may be inconvenient for us.
+- so using the following command, we can enable the splunk to run automatically after boot process.
  <img width="940" height="111" alt="image" src="https://github.com/user-attachments/assets/386378b7-d4db-4e5d-80ba-2d70840d5530" />
 
 

@@ -33,7 +33,7 @@ By the end of this project, you will have a fully functional Splunk setup with d
 4. Microsoft Defender for Endpoint
 5. Attacker Machine (Kali Linux)
 6. Ubuntu Desktop
-7. VMware Workstation 7
+7. VMware Workstation Pro 17
 
 # Key Features
 🚀 Quick Installation – Step-by-step setup of Splunk Enterprise on Linux in under 10 minutes.
